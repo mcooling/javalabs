@@ -1,0 +1,1 @@
+Check the string in this text file and perform some analysis
