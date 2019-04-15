@@ -2,7 +2,9 @@ package myPackage;
 public class Ex1_CoinToss {
 
 	public static void main(String[] args) {
-	    
+
+			//adding comment to test github integration
+
 	    	//use Math.random() library method, to generate a random number
 	    	//assign to an int variable
 	    	//use if-else statement to print "heads" or "tails"
